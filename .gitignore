@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+DualView/Assets/googlemap.html
+ExtendCanvas/Assets/googlemapsearch.html
+XamarinForms/Xamarin.Duo.Forms.Samples.Android/Assets/googlemap.html
+XamarinForms/Xamarin.Duo.Forms.Samples.Android/Assets/googlemapsearch.html
